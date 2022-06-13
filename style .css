@@ -1,0 +1,118 @@
+.le{
+    float: left;
+    height: 100vh;
+    width: 45w; 
+    overflow: hidden;
+}
+.le:hover{
+    transform: scale(1,2,1,2);
+}
+.img{
+    margin: 10px;
+}
+.box{
+    float: left;
+}
+.rox{
+    margin-top: 0;
+    float: right;
+    padding-top: 150px;
+}
+.box,.rox{
+    height: 100vh;
+    width: 49vw;
+
+}
+.container{
+    height: 100vh;
+    width: 100vw;
+overflow-y: hidden;
+
+overflow-x: hidden;
+}
+num{
+    font-size: 30px;
+}
+body{
+    overflow-x: hidden;
+}
+sec{
+    margin: 20px;
+    float: left;
+    height: 100px;
+    width: 200px;
+}
+img{
+    background-color: rgb(252, 255, 248);
+}
+.all{
+    background-color: rgb(255, 255, 255);
+    height:400px 
+;
+padding-top: 100px;
+padding-left: 500px;    
+width: 1000px;
+}
+.head,.align{
+    margin: 20px;
+    text-align: center;
+ 
+}
+h1,p{
+    margin: 100px;
+}
+.us{
+    margin-top: 100px;
+}
+h1,p{
+    margin: 5px;
+}
+ 
+h1{
+    font-size: 20px;
+}
+.three{
+    display: flex;
+    justify-content: space-evenly;
+height: 300px;
+width: 100vw;
+
+}
+
+.th{
+    flex-direction: row;
+    display: flex;
+    justify-content: space-evenly;
+}
+ wo{
+    margin: auto;
+
+}
+.fo{
+     
+}
+.lef{
+    height: 100vh;
+    width: 400px;  
+}
+.rig{  
+    height: 100vh;
+    width: 500px;
+    border: none;
+}
+.ppp{
+padding: 100px 200px 10px 0;
+}
+.o{
+     
+    height: 100px;
+    width: 150px;
+ 
+}
+.two{
+    display: flex;
+    justify-content: space-evenly;
+}
+.au{
+    margin: auto;
+}
